@@ -137,7 +137,7 @@ export default function SMSImportDialog({ open, onOpenChange, onImport }: SMSImp
                     <div>
                       <h4 className="font-semibold mb-1 text-purple-900">Demo Mode Active</h4>
                       <p className="text-sm text-purple-700">
-                        For demonstration, we'll show sample transactions. Real SMS reading requires the app to be installed with proper permissions.
+                        For demonstration, we will show sample transactions. Real SMS reading requires the app to be installed with proper permissions.
                       </p>
                     </div>
                   </div>
